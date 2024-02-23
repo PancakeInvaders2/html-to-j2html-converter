@@ -1,9 +1,7 @@
-= HTML to Kotlin Converter
+= HTML to J2HTML Converter
 
-Available online at https://tinyclub.io/kotlin-html
+This is a fork of
+https://github.com/tom-delalande/html-to-kotlin-converter
+with the purpose of generating J2HTML code instead of Kotlin HTML DSL code
 
-== Usage
-
-1. Add raw HTML into a file named `input.txt` at the root of the directory.
-2. Run the main function.
-3. Output will be in a file named `output.txt`
+Special thanks to @tom-delalande for html-to-kotlin-converter, and to @MohamedRejeb for the KSoup library
